@@ -1,0 +1,15 @@
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\bin\Debug\net6.0\sztf_programs.exe
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\bin\Debug\net6.0\sztf_programs.deps.json
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\bin\Debug\net6.0\sztf_programs.runtimeconfig.json
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\bin\Debug\net6.0\sztf_programs.dll
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\bin\Debug\net6.0\sztf_programs.pdb
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\obj\Debug\net6.0\sztf_programs.csproj.AssemblyReference.cache
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\obj\Debug\net6.0\sztf_programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\obj\Debug\net6.0\sztf_programs.AssemblyInfoInputs.cache
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\obj\Debug\net6.0\sztf_programs.AssemblyInfo.cs
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\obj\Debug\net6.0\sztf_programs.csproj.CoreCompileInputs.cache
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\obj\Debug\net6.0\sztf_programs.dll
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\obj\Debug\net6.0\refint\sztf_programs.dll
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\obj\Debug\net6.0\sztf_programs.pdb
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\obj\Debug\net6.0\sztf_programs.genruntimeconfig.cache
+C:\Users\HunGrman Gabor\source\repos\sztf_programs\sztf_programs\obj\Debug\net6.0\ref\sztf_programs.dll
