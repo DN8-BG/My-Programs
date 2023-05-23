@@ -1,0 +1,26 @@
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int tomb[50];
+    for(int i=0;i<50;i++){
+        cin>>tomb[i];
+    }
+
+    for(int i=0;i<50;i++){int temp;
+        for(int j=1;j<50-i;j++){
+            if(tomb[j-1]>tomb[j]){
+                temp=tomb[j-1];
+                tomb[j-1]=tomb[j];
+                tomb[j]=temp;
+            }
+        }
+    }
+    for(int i=0;i<50;i++){
+        cout<<tomb[i]<<" "<<endl;
+    }
+    return 0;
+}
